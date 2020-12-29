@@ -11,9 +11,10 @@
 This is a customer segmentation problem for different types of advertisements on the Starbucks rewards mobile app. Customers respond differently to various types of promotions, so there is no 1 promotion type that is universally best for all customers. With a better understanding of customer behavior, Starbucks would be able to optimize how advertisements are sent to their customers.
 
 The purpose of this project is to : 
-1. Segment demographic groups based on how customers respond best to which offer type
-2. Build a classifier that predicts whether or not someone will respond to an offer
-3. Build a regressor that predicts the amount spent by a customer 
+1. Exporatory Data Analysis
+2. Segment demographic groups based on how customers respond best to which offer type
+3. Build a classifier that predicts whether or not customer will respond to an offer
+4. Build a regressor that predicts the amount spent by a customer based on the offer sent to them
 
 ## Data Collection :
 
