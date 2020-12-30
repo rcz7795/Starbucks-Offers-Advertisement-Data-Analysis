@@ -1,6 +1,4 @@
-# Starbucks-Customer-Segmentation
-
-# Sentiment-Analysis-of-London-Hilton-Hotel-Reviews
+# Starbucks-Offers-Advertisement-Data-Analysis
 
 ![ML](https://img.shields.io/badge/ML-Regression_Classification_Segmentation-blue.svg) 
 
@@ -85,7 +83,7 @@ The performance of regressor is as follows:
 ![test](Snips/R_4.JPG)
 
 
-## Conclusion :
+## Conclusions :
 
 1. **Exploratory Data Analysis:**
     - We began with various data cleaning and preprocessing steps in order to transform the raw data into a usable format. This included dropping missing data, dropping duplicate data, converting colunms to the appropriate data types, extracting data from columns that contained lists or dictionaries, and mapping offer and user ID hash strings to numbers for simplicity. 
